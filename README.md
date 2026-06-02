@@ -81,10 +81,6 @@ Python-Computer-Vision-Project/
 │   ├── opencv_experiments/
 │   └── mediapipe_experiments/
 │
-├── assets/
-│   ├── screenshots/
-│   └── demo_gifs/
-│
 ├── README.md
 └── requirements.txt
 ```
