@@ -82,7 +82,6 @@ Python-Computer-Vision-Project/
 │   └── mediapipe_experiments/
 │
 ├── README.md
-└── requirements.txt
 ```
 
 ---
