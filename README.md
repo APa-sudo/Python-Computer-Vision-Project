@@ -138,5 +138,7 @@ This project provided practical experience in:
 ## Author
 
 **Akshat Pathak**
+
 Robotics Engineering Student
+
 Technische Hochschule Würzburg-Schweinfurt (THWS)
