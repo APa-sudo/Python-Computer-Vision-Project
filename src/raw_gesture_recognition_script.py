@@ -90,7 +90,7 @@ while True:
                     counter += 1
                 else: counter = 1
 
-                if counter>=20:
+                if counter>=10:
                     stable_gesture = detected_gesture
                     counter = 0
 
